@@ -1,0 +1,31 @@
+.sidebar {
+    height: 100vh;
+    flex: 0.2;
+    color:white;
+    min-width: 230px;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sidebar >img {
+    height:70px;
+    padding: 10px;
+    margin-right: auto;
+}
+
+.sidebar>h1 {
+    border: 0.7px solid #282828;
+    width: 90%;
+    margin: 10px auto;
+}
+.sidebar_title {
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 12px;
+    align-items: center;
+    color:gray
+}
+
